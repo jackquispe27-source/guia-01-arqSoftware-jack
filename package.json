@@ -1,0 +1,30 @@
+{
+  "name": "guia-01-arqsoftware-jack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackquispe27-source/guia-01-arqSoftware-jack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jackquispe27-source/guia-01-arqSoftware-jack/issues"
+  },
+  "homepage": "https://github.com/jackquispe27-source/guia-01-arqSoftware-jack#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
